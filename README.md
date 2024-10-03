@@ -1,4 +1,4 @@
-# PenTouch Office Equipment Sales Performance Analysis
+# Sales Analytics and Performance Evaluation: PenTouch Office Equipment
 
 ## Overview
 
